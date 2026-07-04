@@ -96,19 +96,19 @@ Built during my internship at Bitspark Technologies — implemented core CRUD fu
 
 # 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=Yashkulkarni052&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=kulkarnicodes-dev&theme=tokyonight&hide_border=true)
 
 ---
 
 # 📈 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkulkarni052&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarnicodes-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Yashkulkarni052&theme=tokyonight&no-frame=true&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=kulkarnicodes-dev&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
 
