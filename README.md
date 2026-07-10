@@ -83,7 +83,7 @@ A job-matching platform that analyzes user resumes and recommends relevant job o
 ### 🌾 Crop Planning & Forecasting Website
 A platform to help farmers plan crops and forecast yields using data-driven insights.
 
-### ✅ To-Do App & Admin Dashboard (Django)
+### ✅ To-Do / Blog App & Admin Dashboard (Django)
 Built during my internship at Bitspark Technologies — implemented core CRUD functionality using Django's MVT architecture.
 
 ---
